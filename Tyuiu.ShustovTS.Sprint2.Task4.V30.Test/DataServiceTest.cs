@@ -17,4 +17,4 @@ namespace Tyuiu.ShustovTS.Sprint2.Task4.V30.Test
             Assert.AreEqual(wait, res);
         }
     }
-}
+} 

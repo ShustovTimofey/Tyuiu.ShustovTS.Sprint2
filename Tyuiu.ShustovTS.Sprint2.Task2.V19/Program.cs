@@ -40,4 +40,4 @@ namespace Tyuiu.ShustovTS.Sprint2.Task2.V19
             Console.ReadKey();
         }
     }
-}
+} 

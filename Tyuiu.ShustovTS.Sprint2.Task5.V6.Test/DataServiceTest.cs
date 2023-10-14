@@ -18,4 +18,4 @@ namespace Tyuiu.ShustovTS.Sprint2.Task5.V6.Test
             Assert.AreEqual(wait, res);
         }
     }
-}
+} 

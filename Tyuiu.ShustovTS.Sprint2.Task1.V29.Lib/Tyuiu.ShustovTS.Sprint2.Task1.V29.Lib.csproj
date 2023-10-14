@@ -39,8 +39,8 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="tyuiu.cources.programming.interfaces %284%29 %281%29">
-      <HintPath>..\..\..\..\Downloads\tyuiu.cources.programming.interfaces (4) (1).dll</HintPath>
+    <Reference Include="tyuiu.cources.programming.interfaces %285%29">
+      <HintPath>..\tyuiu.cources.programming.interfaces (5).dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
